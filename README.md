@@ -1,8 +1,8 @@
 ## Xylophone 🎹
 
-## Our Goal-:
+## 📍Our Goal-:
 
-In this tutorial we will be diving into more Dart programming concepts such as lists, loops, functions and much much more. By the end of this modules, you should be conformable using Flutter packages and building repeated widgets.
+In this project I have learnt and used Dart programming concepts such as lists, loops, functions and much much more. I have also learnt  how to use Flutter packages and building repeated widgets.
 
 ## 💻Functionality-:
 
