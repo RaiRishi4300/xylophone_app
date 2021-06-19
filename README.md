@@ -6,9 +6,10 @@ In this project I have learnt and used Dart programming concepts such as lists, 
 
 ## 💻Functionality-:
 
-We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are.
+I have made a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are.
 
-## What you will learn-
+
+## 🧾Learning Side-:
 
 -> How to incorporate open source libraries of code into your project using Flutter Packages.</br>
 -> How to play sound on both iOS and Android.</br>
