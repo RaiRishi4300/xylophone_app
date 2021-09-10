@@ -1,6 +1,6 @@
 ## Xylophone 🎹
 
-## 📍Our Goal-:
+## 📍Project Goal-:
 
 In this project I have learnt and used Dart programming concepts such as lists, loops, functions and much much more. I have also learnt  how to use Flutter packages and building repeated widgets.
 
